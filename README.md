@@ -305,6 +305,5 @@ My goal is to grow into an engineer who can **design, build, evaluate, and deplo
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7C3AED,100:00FFAA&height=160&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" alt="Thanks for Visiting"/>
-</p>
+![Thanks Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=✨%20Thanks%20for%20Visiting!%20✨&fontSize=45&fontAlignY=40&animation=twinkling)
+
