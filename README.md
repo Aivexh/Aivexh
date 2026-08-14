@@ -85,5 +85,4 @@ I care about understanding **why a system works**, not just making it work once.
 
 [GitHub](https://github.com/Aivexh) ·
 [LinkedIn](https://www.linkedin.com/in/monika-yadav-874224329/) ·
-[LeetCode](https://leetcode.com/u/alphastorm-x/) ·
 **monikay7084@gmail.com**
