@@ -52,17 +52,6 @@ Predictive maintenance system using sequential sensor data to identify patterns 
 
 ---
 
-## Problem Solving
-
-I actively practice Data Structures & Algorithms through LeetCode.
-
-**Current focus:**  
-Arrays · Strings · Binary Search · Recursion · Trees · Graphs · Dynamic Programming
-
-[LeetCode →](https://leetcode.com/u/alphastorm-x/)
-
----
-
 ## Engineering & Leadership
 
 - Deputy Tech Head — Tarang Society
